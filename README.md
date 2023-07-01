@@ -12,7 +12,7 @@ SwitchBot es un proyecto que automatiza aparatos electrónicos controlados por i
 - [Ejemplos](#ejemplos)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
-- [Documentación](#Documentación adicional)
+- [Documentación](#Documentación)
 
 ## Colaboradores
 - NicoBosz
@@ -71,6 +71,6 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 4. Haz push a la rama: `git push origin nueva-funcionalidad`.
 5. Envía una pull request con tus cambios.
 
-## Documentación adicional
+## Documentación
 
 Puedes encontrar más detalles y documentación en el archivo [esquematico](docs/esquematico.pdf).
