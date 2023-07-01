@@ -4,6 +4,7 @@ SwitchBot es un proyecto que automatiza aparatos electrónicos controlados por i
 
 ## Contenido
 
+- [Colaboradores](#colaboradores)
 - [Características](#características)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
@@ -11,6 +12,10 @@ SwitchBot es un proyecto que automatiza aparatos electrónicos controlados por i
 - [Ejemplos](#ejemplos)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
+
+## Colaboradores
+- NicoBosz
+- jbernabo-DaVinci
 
 ## Características
 
